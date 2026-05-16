@@ -32,12 +32,12 @@
 
 ```
     ┌─────────────────────────────────────────────────────────┐
-    │  CLASSICAL WORLD              QUANTUM WORLD              │
+    │  CLASSICAL WORLD              QUANTUM WORLD             │
     │                                                         │
-    │  Bit = 0 or 1      ───►     Qubit = |0⟩ + |1⟩         │
-    │  Deterministic     ───►     Probabilistic              │
-    │  Sequential        ───►     Parallel (Superposition)   │
-    │  Local               ───►     Entangled (Spooky!)        │
+    │  Bit = 0 or 1      ───►     Qubit = |0⟩ + |1⟩            │
+    │  Deterministic     ───►     Probabilistic               │
+    │  Sequential        ───►     Parallel (Superposition)    │
+    │  Local             ───►     Entangled (Spooky!)         │
     └─────────────────────────────────────────────────────────┘
 ```
 
